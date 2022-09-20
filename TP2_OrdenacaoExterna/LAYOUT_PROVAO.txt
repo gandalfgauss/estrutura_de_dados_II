@@ -1,0 +1,7 @@
+Num. Insc. Aluno: inteiro ou char(8)
+Nota:             float
+Estado:           char(2)
+Cidade:           char(50)
+Curso:            char(30)
+
+Todos os campos separados por um espaço em branco.
